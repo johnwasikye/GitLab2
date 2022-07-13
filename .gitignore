@@ -26,3 +26,8 @@ hs_err_pid*
 .project
 .classpath
 .vscode/
+.class
+.jar
+bin
+build
+.jar
